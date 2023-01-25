@@ -1,0 +1,26 @@
+DIRIJASE A SITIO, REVÍSELO Y DESCUBRA SUS FUNCIONES
+
+1. Cuenta con un módulo para registro individual y otro para negocios
+
+INDIVIDUAL:
+Cuenta con:
+1. Conversor de dinero
+2. Opción de transferencias
+3. Gráficos
+4. Alertas
+
+* Servicio API
+
+
+
+
+
+
+ESCRIBA 4 FUNCIONES PRINCIPALES, SEGÚN SU OPINIÓN SOBRE EL SITIO, PÓNGALAS POR ORDEN DE IMPORTANCIA
+
+* Registro y autenticación
+* Transferencia de dinero
+* Conversor de moneda
+* Alertas
+
+DESCRIBA, ¿CUALES SON LAS FUNCIONES QUE PUEDE OFRECER EL QA EN CADA ETAPA DEL CICLO DE VIDA DEL SOFTWARE?
